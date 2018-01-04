@@ -1,5 +1,5 @@
 ================================
-MRZ- Q2A Prevent Username Change
+MRZ- Q2A Prevent Profile Change
 ================================
 
 -----------
