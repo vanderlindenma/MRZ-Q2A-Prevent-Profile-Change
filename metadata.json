@@ -1,0 +1,12 @@
+{
+	"name": "MRZ Q2A - Prevent Profile Change",
+	"uri": "https://github.com/vanderlindenma/MRZ-Q2A-Prevent-Profile-Change",
+	"description": "A simple hack of https://github.com/alpabeta/MRZ-Q2A-prevent-username-change, preventing changes to the profile instead of changes to the username ",
+	"version": "1.0.0",
+	"date": "2018-01-04",
+	"author": "Martin Van der Linden, based on plugin by Mirza Media",
+	"author_uri": "https://martinvdlinden.wordpress.com/",
+	"license": "Copyleft",
+	"min_q2a": "1.6",
+	"min_php": "5.1.2"
+}
